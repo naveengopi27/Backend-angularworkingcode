@@ -1,0 +1,52 @@
+.form
+{
+    margin-left: -60px;
+}
+
+.row
+{
+    margin-left: 58px;
+}
+.py-5 {
+    padding-top: 1rem!important;
+    padding-bottom: 3rem!important;
+}
+/* .row[_ngcontent-hkx-c109] {
+    margin-left: 21px;
+} */
+/* .form[_ngcontent-pcx-c109] {
+    margin-right:-280px;
+} */
+.form[_ngcontent-jgs-c109] {
+    margin-right: 42px;
+}
+
+.btn-group-lg>.btn, .btn-lg {
+    padding: .5rem 1rem;
+    font-size: 18px;
+    border-radius: .3rem;
+    margin-bottom:10px;
+    margin-right:-90px;
+}
+
+.rounded {
+    border-radius: .25rem!important;
+    margin-right: -12px;
+}
+.form-control {
+    display: block;
+    width: 95%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
